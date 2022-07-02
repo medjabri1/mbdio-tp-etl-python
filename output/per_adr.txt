@@ -1,0 +1,6 @@
+idp;nom;prenom;idadr;loc;ville
+1;BenAbdellah;adil;2;rue A;Agadir
+2;Marrakchi;Hassan;1;rue M;Marrakech
+3;Ben;Aya;2;rue A;Agadir
+4;Chamali;Abdelaziz;3;rue T;Tange
+5;Jabri;Mohammed;2;rue A;Agadir

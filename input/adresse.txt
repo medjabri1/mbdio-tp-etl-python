@@ -1,0 +1,4 @@
+idadr;loc;ville
+1;rue M;Marrakech
+2;rue A;Agadir
+3;rue T;Tanger

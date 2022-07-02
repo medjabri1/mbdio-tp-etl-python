@@ -1,0 +1,6 @@
+idp;nom;prenom;idadr
+1;BenAbdellah;adil;2
+2;Marrakchi;Hassan;1
+3;Ben;Aya;2
+4;Chamali;Abdelaziz;3
+5;Jabri;Mohammed;2
